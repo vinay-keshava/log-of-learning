@@ -11,4 +11,4 @@
 
 | LINK |
 |------|
-|[Pass command](https://github.com/vinay-keshava/log-of-learning/tree/main/notesnotes-15-NOV-2021.md#1---pass-command) |
+|[Pass command](https://github.com/vinay-keshava/log-of-learning/tree/main/notes/notes-15-NOV-2021.md#1---pass-command) |
