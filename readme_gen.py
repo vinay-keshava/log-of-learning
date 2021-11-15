@@ -13,7 +13,7 @@ def override_print(x):
 
 print = override_print
 
-BLOB_PATH="https://github.com/...../notes"
+BLOB_PATH="https://github.com/vinay-keshava/log-of-learning/tree/main/notes"
 
 mds = [ md for md in os.listdir("./notes/") if md.endswith(".md") ]
 mds.remove('notes-dd-mmm-yyyy.md')
