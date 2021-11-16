@@ -7,8 +7,10 @@
                    |___/                                                                   |___/
         
 
-[ 1 ]
+[ 3 ]
 
 | LINK |
 |------|
+|[Python interpreter](https://github.com/vinay-keshava/log-of-learning/tree/main/notes/notes-16-NOV-2021.md#1---python-interpreter) |
+|[Python strings](https://github.com/vinay-keshava/log-of-learning/tree/main/notes/notes-16-NOV-2021.md#2---python-strings) |
 |[Pass command](https://github.com/vinay-keshava/log-of-learning/tree/main/notes/notes-15-NOV-2021.md#1---pass-command) |
